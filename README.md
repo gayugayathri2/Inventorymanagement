@@ -10,9 +10,11 @@ Prerequisites
 To run this system you will need :
 
 Python 3
+
 Flask
+
 SQL
 
-The Inventory Management system is used to manage store products and keep track of all goods stock and also we can use it to check the purchases history of the store
+The Inventory Management system is used to manage store products and keep track of all goods stock and also we can use it to check the purchases history of the store.
 
 
