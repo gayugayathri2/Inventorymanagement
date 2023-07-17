@@ -1,3 +1,14 @@
 # Inventory Management 
-This is an inventory management software built in Java using MYSQL database that can be used at any point of sale of a small to mid-sized store.
-Open source point of sale is a web based point of sale application written in PHP using codelgniter framework.It uses MYSQL as the data back end and has a Bootstrap 3 based user interface.
+Flask is a lightweight Python web framework that provides useful tools and features for creating web applications in the Python Language. It gives developers flexibility and is an accessible framework for new developers because you can build a web application quickly using only a single Python file.
+
+Flask is a Python framework that is used for building web applications. Flask is a back-end framework, which means that it provides the technologies, tools, and modules that can be used to build the actual functionalities of the web app rather than the design or look of it.
+
+Prerequisites
+To run this system you will need :
+
+Python 3
+Flask
+SQL
+Assuming you have Python, proceed to install the rest using the command below:
+
+pip3 install -r requirements.txt
